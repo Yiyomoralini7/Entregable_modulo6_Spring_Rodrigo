@@ -222,6 +222,6 @@ También descomentar la dependencia MySQL en `pom.xml` y comentar H2.
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 
 Desarrollado por Docente **Rodrigo Morales** · Módulo 6 · Marzo 2026
